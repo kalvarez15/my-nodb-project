@@ -1,4 +1,4 @@
-const list = []
+const list = ['Legs-Squats', 'Arms-Biceps','Arms-Triceps', 'Chest', 'Traps']
 
 
 module.exports = {
